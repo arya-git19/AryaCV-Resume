@@ -91,6 +91,6 @@ To work in a challenging environment where I can utilize my Python and backend d
 
 📫 Connect With Me +91 9974438896
 
-LinkedIn: (Add your link here)
+LinkedIn: (www.linkedin.com/in/arya-patel-1179b139b)
 
-Email: (Add your email here)
+Email: (aryapatel.1901@gmail.com)
