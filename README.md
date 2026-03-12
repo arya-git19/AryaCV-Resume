@@ -1,5 +1,5 @@
 Hi, I'm Arya Patel
-💻 Python Developer | Django Enthusiast | ETL Learner
+💻 Python Developer | Full-stack Development | API Integration | ETL & Data Processing Enthusiast | Basic SEO & Digital marketing knowledge
 
 Passionate and detail-oriented Python developer with hands-on experience in building dynamic web applications using Django, MySQL, HTML, and CSS. I enjoy solving real-world problems and continuously improving my technical skills.
 
